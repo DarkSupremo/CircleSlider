@@ -1,4 +1,4 @@
-# CircleSlider
+# CircleSlider ( https://www.uiltonsites.com.br )
 
 [![CI Status](http://img.shields.io/travis/shushutochako/CircleSlider.svg?style=flat)](https://travis-ci.org/shushutochako/CircleSlider)
 [![Version](https://img.shields.io/cocoapods/v/CircleSlider.svg?style=flat)](http://cocoapods.org/pods/CircleSlider)
